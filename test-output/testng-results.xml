@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25475" started-at="2021-04-10T15:11:08 IST" finished-at="2021-04-10T15:11:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25475" started-at="2021-04-10T15:11:08 IST" finished-at="2021-04-10T15:11:34 IST">
+      <class name="com.googlesearch.web.tests.GoogleSearchTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.googlesearch.web.tests.GoogleSearchTest@56aac163]" name="setup" is-config="true" duration-ms="3821" started-at="2021-04-10T15:11:08 IST" finished-at="2021-04-10T15:11:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateGoogleSearch()[pri:0, instance:com.googlesearch.web.tests.GoogleSearchTest@56aac163]" name="validateGoogleSearch" duration-ms="16077" started-at="2021-04-10T15:11:12 IST" finished-at="2021-04-10T15:11:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGoogleSearch -->
+        <test-method status="PASS" signature="quite()[pri:0, instance:com.googlesearch.web.tests.GoogleSearchTest@56aac163]" name="quite" is-config="true" duration-ms="5550" started-at="2021-04-10T15:11:28 IST" finished-at="2021-04-10T15:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+        <test-method status="PASS" signature="assertTest()[pri:0, instance:com.googlesearch.web.tests.GoogleSearchTest@56aac163]" name="assertTest" is-config="true" duration-ms="0" started-at="2021-04-10T15:11:34 IST" finished-at="2021-04-10T15:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTest -->
+      </class> <!-- com.googlesearch.web.tests.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
